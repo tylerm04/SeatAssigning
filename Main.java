@@ -17,7 +17,7 @@ class Main
    {
       String[] names = new String[15];
       
-      for (int i = 0; i < names.length; i++)
+      for (int i = 0; i < names.length; i++)  
 
 
 
